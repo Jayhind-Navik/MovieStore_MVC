@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|c:\\users\\heman\\source\\repos\\moviestore_mvc\\moviestore_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|solutionrelative:moviestore_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|c:\\users\\heman\\source\\repos\\moviestore_mvc\\moviestore_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|solutionrelative:moviestore_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|c:\\users\\heman\\source\\repos\\moviestore_mvc\\moviestore_mvc\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|solutionrelative:moviestore_mvc\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|c:\\users\\heman\\source\\repos\\moviestore_mvc\\moviestore_mvc\\views\\userauthentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|solutionrelative:moviestore_mvc\\views\\userauthentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|c:\\users\\heman\\source\\repos\\moviestore_mvc\\moviestore_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|solutionrelative:moviestore_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|c:\\users\\heman\\source\\repos\\moviestore_mvc\\moviestore_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|solutionrelative:moviestore_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|c:\\users\\heman\\source\\repos\\moviestore_mvc\\moviestore_mvc\\views\\movie\\movielist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|solutionrelative:moviestore_mvc\\views\\movie\\movielist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|c:\\users\\heman\\source\\repos\\moviestore_mvc\\moviestore_mvc\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|solutionrelative:moviestore_mvc\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|c:\\users\\heman\\source\\repos\\moviestore_mvc\\moviestore_mvc\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|solutionrelative:moviestore_mvc\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|c:\\users\\heman\\source\\repos\\moviestore_mvc\\moviestore_mvc\\views\\movie\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8BD223D-D0A3-4D54-8AF9-9FE4B47A8246}|MovieStore_MVC\\MovieStore_MVC.csproj|solutionrelative:moviestore_mvc\\views\\movie\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MovieStore_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MovieStore_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T07:02:25.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieStore_MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\appsettings.json",
+              "RelativeToolTip": "MovieStore_MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T14:01:03.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MovieStore_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Program.cs",
+              "RelativeToolTip": "MovieStore_MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:59:54.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Views\\UserAuthentication\\Login.cshtml",
+              "RelativeDocumentMoniker": "MovieStore_MVC\\Views\\UserAuthentication\\Login.cshtml",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Views\\UserAuthentication\\Login.cshtml",
+              "RelativeToolTip": "MovieStore_MVC\\Views\\UserAuthentication\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T13:58:47.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Controllers\\UserAuthenticationController.cs",
+              "RelativeDocumentMoniker": "MovieStore_MVC\\Controllers\\UserAuthenticationController.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Controllers\\UserAuthenticationController.cs",
+              "RelativeToolTip": "MovieStore_MVC\\Controllers\\UserAuthenticationController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:57:51.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MovieStore_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MovieStore_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwDIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T13:56:02.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieList.cshtml",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Views\\Movie\\MovieList.cshtml",
+              "RelativeDocumentMoniker": "MovieStore_MVC\\Views\\Movie\\MovieList.cshtml",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Views\\Movie\\MovieList.cshtml",
+              "RelativeToolTip": "MovieStore_MVC\\Views\\Movie\\MovieList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T13:55:13.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MovieStore_MVC\\Views\\Movie\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "MovieStore_MVC\\Views\\Movie\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T13:54:26.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Views\\Movie\\Add.cshtml",
+              "RelativeDocumentMoniker": "MovieStore_MVC\\Views\\Movie\\Add.cshtml",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Views\\Movie\\Add.cshtml",
+              "RelativeToolTip": "MovieStore_MVC\\Views\\Movie\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T13:53:44.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieStore_MVC\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\heman\\source\\repos\\MovieStore_MVC\\MovieStore_MVC\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieStore_MVC\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowGIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:53:20.027Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

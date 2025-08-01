@@ -1,0 +1,2 @@
+C:\Users\heman\source\repos\MovieStore_MVC\MovieStore_MVC\wwwroot\css\site.css
+C:\Users\heman\source\repos\MovieStore_MVC\MovieStore_MVC\wwwroot\js\site.js
